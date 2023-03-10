@@ -1,4 +1,4 @@
-# AQA-TAF-for-ebay.com-with-Selenium-Greed
+# AQA-TAF-for-ebay.com-with-Selenium-Grid
 https:/ebay.com was chosen as the testing page. Testing was done through Google Chrome and Firefox browsers, using Selenium Greed.
 The final project folder contains two results in .html format.
 Test Result - RunnerTest_OLD.html – old version with better performance.
